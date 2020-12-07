@@ -1,0 +1,8 @@
+Opgave
+Lav en ny fil
+Fyld noget i filen
+....
+Se den nye fil i git respositoriet i browseren
+
+### My first
+This is my first my attempt to create a new file 
